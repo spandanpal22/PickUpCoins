@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/Unity Projects/BUILD VERSIONS/New folder/PickUpCoins.exe
+D:/Unity Projects/BUILD VERSIONS/PickUpCoins/PickUpCoins.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
